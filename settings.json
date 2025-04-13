@@ -1,1 +1,18 @@
-/Users/apple/Library/Application Support/Code/User/settings.json
+{
+    "workbench.colorTheme": "Default Dark Modern",
+
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "j",
+                "j"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        }
+    ],
+    "workbench.startupEditor": "none",
+    "settingsSync.ignoredSettings": []
+
+}
